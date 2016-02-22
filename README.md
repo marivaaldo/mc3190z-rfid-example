@@ -32,5 +32,5 @@ No menu superior esquerdo, existe um combo box onde você pode escolher onde des
 * MC3190Z Device: irá executar o aplicativo diretamente no dispositivo
 
 # Contato
-## // Marivaldo Júnior
-## // marivaldo@ioct.com.br
+### // Marivaldo Júnior
+### // marivaldo@ioct.com.br
