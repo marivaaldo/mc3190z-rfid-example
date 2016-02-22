@@ -16,6 +16,9 @@
   Duplicar "Windows Mobile 6 Professional Emulator" utilizando "Save as..." e definindo o novo nome para "MC3190Z Emulator"
 * Nas propriedades do "MC3190Z Emulator" acessar: Emulator Options > Display e definir
   Video: Width = 320 e Height = 320.
+
+## 2.2 Configurações do Form Factor (Design das telas)
+
 * Acessar o menu: Tools > Options > Device Tools > Form Factors
   Duplicar "Windows Mobile 6 Classic" utilizando "Save as..." e definindo o novo nome para "MC3190Z"
   Após duplicar, acessar as propriedades do novo Form Factor e desmarcar a opção "Show Skin"
