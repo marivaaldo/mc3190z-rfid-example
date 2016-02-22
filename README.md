@@ -1,21 +1,25 @@
 # // Treinamento - Danashe
 
-# Requisitos
+# 1. Requisitos
+
+* Microsoft Visual Studio 2008
+* Microsoft Windows Mobile 6 Professional SDK
+* Microsoft ActiveSync 4.5
+* Microsoft Windows Mobile Device Center
+* EMDK for .NET v2.8 (MC3190Z SDK for .NET)
+
+# 2. MC3190Z no Visual Studio
 
 // TODO
 
-# MC3190Z no Visual Studio
+# 3. Debug
 
 // TODO
 
-# Debug
+## 3.1 Emulador
 
 // TODO
 
-## Emulador
-
-// TODO
-
-## Dispositivo
+## 3.2 Dispositivo
 
 // TODO
