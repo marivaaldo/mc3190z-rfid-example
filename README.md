@@ -1,21 +1,21 @@
 # // Treinamento - Danashe
 
-1. Requisitos
+# Requisitos
 
 // TODO
 
-2. MC3190Z no Visual Studio
+# MC3190Z no Visual Studio
 
 // TODO
 
-3. Debug
+# Debug
 
 // TODO
 
-  * Emulador
+## Emulador
 
 // TODO
 
-  * Dispositivo
+## Dispositivo
 
 // TODO
