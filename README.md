@@ -27,3 +27,7 @@
 No menu superior esquerdo, existe um combo box onde você pode escolher onde deseja executar o aplicativo.
 * MC3190Z Emulator: irá executar o aplicativo na máquina de desenvolvimento utilizando um emulador
 * MC3190Z Device: irá executar o aplicativo diretamente no dispositivo
+
+# Contato
+## // Marivaldo Júnior
+## // marivaldo@ioct.com.br
