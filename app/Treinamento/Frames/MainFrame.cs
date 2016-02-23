@@ -156,8 +156,6 @@ namespace Treinamento.Frames
             {
                 Trigger.Stage2Notify += new Trigger.TriggerEventHandler(Trigger_Stage2Notify);
             }
-
-            this.Refresh();
         }
 
         #region Aux Functions
