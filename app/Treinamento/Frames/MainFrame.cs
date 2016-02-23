@@ -340,7 +340,7 @@ namespace Treinamento.Frames
 
                 "Desenvolvido por \n" +
                 "// Marivaldo Júnior\n" +
-                "// marivaldo@ioct.com.br" +
+                "// marivaldo@ioct.com.br\n" +
                 "// https://git.io/v2OOw", "Sobre");
         }
 
