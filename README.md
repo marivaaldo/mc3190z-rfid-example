@@ -27,7 +27,7 @@
   Após duplicar, acessar as propriedades do novo Form Factor e desmarcar a opção "Show Skin"
   Defina Width = 240 e Height = 240
 * Ainda na janela "Form Factors", defina "Default Form Factor" para "MC3190Z"
-* 
+
 ![Configurações do Form Factor](http://s10.postimg.org/ao7ovnw09/Options_Devices_Tools_Form_Factors.png)
 
 # 3. Debug
