@@ -7,6 +7,7 @@
 * Microsoft ActiveSync 4.5
 * Microsoft Windows Mobile Device Center
 * EMDK for .NET v2.8 (MC3190Z SDK for .NET)
+* Microsoft .NET CF 2.0 (Para o dispositivo)
 * **Download dos requisitos:** http://bit.ly/20RsxUX
 
 # 2. MC3190Z no Visual Studio
