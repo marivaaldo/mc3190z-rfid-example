@@ -18,6 +18,8 @@
 * Nas propriedades do "MC3190Z Emulator" acessar: Emulator Options > Display e definir
   Video: Width = 320 e Height = 320.
 
+![Configurações de Dispositivos](http://s10.postimg.org/8v4s7catl/Options_Devices_Tools_Devices.png)
+
 ## 2.2 Configurações do Form Factor (Design das telas)
 
 * Acessar o menu: Tools > Options > Device Tools > Form Factors
@@ -25,6 +27,8 @@
   Após duplicar, acessar as propriedades do novo Form Factor e desmarcar a opção "Show Skin"
   Defina Width = 240 e Height = 240
 * Ainda na janela "Form Factors", defina "Default Form Factor" para "MC3190Z"
+* 
+![Configurações do Form Factor](http://s10.postimg.org/ao7ovnw09/Options_Devices_Tools_Form_Factors.png)
 
 # 3. Debug
 
